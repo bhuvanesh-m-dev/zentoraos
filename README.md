@@ -32,9 +32,13 @@ Want to improve ZentoraOS? Fork this repository, make your changes, and submit a
 
 ---
 
-## 📝 License
-This project is open-source and available under the MIT License.
+## 📝 License  
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.  
+
+
+You are free to use, modify, and distribute this software under the terms of the GPLv3. See the [LICENSE](LICENSE) file for details.  
 
 ---
+
 
 💻 Built with ❤️ by **Bhuvanesh M** | [Portfolio](https://bhuvaneshm.in)
