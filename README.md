@@ -16,7 +16,7 @@
 ## 📥 Download
 You can download the latest ZentoraOS ISO from the official GitHub Releases page:
 
-👉 [Download ZentoraOS](https://github.com/YOUR_GITHUB_USERNAME/ZentoraOS/releases/latest)
+👉 [Download ZentoraOS](https://bhuvaneshm.in/zentoraos/iso_files/zentoraos-0.4-64bit.iso)
 
 ---
 
